@@ -1,4 +1,5 @@
-Requirement already satisfied: streamlit in /Users/owner/anaconda3/lib/python3.11/site-packages (1.27.2)
-Requirement already satisfied: install in /Users/owner/anaconda3/lib/python3.11/site-packages (1.3.5)
-Requirement already satisfied: protobuf==3.20 in /Users/owner/anaconda3/lib/python3.11/site-packages (3.20.0)
-Requirement already satisfied: pip in /Users/owner/anaconda3/lib/python3.11/site-packages (23.3.1)
+git init
+git remote add origin https://github.com/ryon910/webapptest.git
+git add .
+git commit -m 'first commit'
+git push origin main

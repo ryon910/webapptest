@@ -3,5 +3,5 @@ import pandas as pd
 
 st.title("Streamlit")
 
-df = pd.read_csv("webapptest/hotel.csv")
+df = pd.read_csv("hotel.csv")
 st.write(df)
